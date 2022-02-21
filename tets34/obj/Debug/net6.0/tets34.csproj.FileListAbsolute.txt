@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\bin\Debug\net6.0\tets34.exe
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\bin\Debug\net6.0\tets34.deps.json
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\bin\Debug\net6.0\tets34.runtimeconfig.json
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\bin\Debug\net6.0\tets34.dll
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\bin\Debug\net6.0\tets34.pdb
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.AssemblyInfo.cs
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.dll
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\refint\tets34.dll
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.pdb
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\tets34.genruntimeconfig.cache
+C:\Users\Илья\Desktop\git\Homework\Homework5\tets34\obj\Debug\net6.0\ref\tets34.dll
